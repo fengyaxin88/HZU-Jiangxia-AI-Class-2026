@@ -11,3 +11,5 @@ data/ dataset/ images/ raw/ test_img/ train_img/
 # 忽略Git子仓库/临时文件
 **/.git/
 *.tmp *.log *.pyc __pycache__/
+
+test.py
